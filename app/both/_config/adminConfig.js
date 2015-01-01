@@ -1,6 +1,6 @@
 AdminConfig = {
   name: 'Waartaa',
-  adminEmails: ['sheeshmohsin@gmail.com'],
+  adminEmails: [Meteor.settings.public.ADMIN_EMAIL],
   collections: {
       ChannelNicks: {
           tableColumns: [
