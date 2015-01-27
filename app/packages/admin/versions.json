@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    [
+      "aldeed:collection2",
+      "2.3.0"
+    ],
+    [
+      "yogiben:admin",
+      "1.0.8"
+    ],
+    [
+      "meteor",
+      "1.0.2.1"
+    ]
+  ],
+  "pluginDependencies": [],
+  "toolVersion": "meteor-tool@1.0.35",
+  "format": "1.0"
+}
